@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/websiteSelection"
+        android:orderInCategory="100"
+        android:title="@string/option1"
+        />
+
+    <item
+        android:id="@+id/phoneSelection"
+        android:orderInCategory="101"
+        android:title="@string/option2"
+        />
+
+    <item
+        android:id="@+id/fav"
+        android:orderInCategory="102"
+        android:title="@string/fav"
+        />
+
+</menu>
